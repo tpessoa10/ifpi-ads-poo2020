@@ -1,0 +1,1 @@
+Ele retorna o valor 9, pois apesar da primeira condição ser efetuada (a > 11), a segunda não é efetuada, logo não é realizado o calculo a*b(9*0), e sim o calculo a-b(9-0), assim retornando o valor 9

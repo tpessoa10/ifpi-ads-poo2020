@@ -1,0 +1,10 @@
+Codigo correto:
+
+public class Teste4 {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 1;
+        int soma = a + b;
+        System.out.println(soma);
+            }
+        }
