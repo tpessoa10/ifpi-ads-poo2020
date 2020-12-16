@@ -1,0 +1,2 @@
+É somado o propio número atribuido a valor, com ele mesmo, o ideal seria a criação de um atributo soma ou acumulador, 
+para ser somado com o atributo valor
