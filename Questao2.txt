@@ -1,1 +1,0 @@
-O construtor Hotel(int) não está definido.
