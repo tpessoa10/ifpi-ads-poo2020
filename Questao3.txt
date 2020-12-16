@@ -1,1 +1,0 @@
-Retorna 0, pois números não inicializados são atribuidos valor 0
