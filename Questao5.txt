@@ -1,1 +1,0 @@
-O erro ocorre por conta do argumento não ser passado dentro do construtor, o ideal seria por exemplo, "new Radio (1);
